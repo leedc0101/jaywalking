@@ -9,6 +9,15 @@
     "lint": "next lint"
   },
   "dependencies": {
+    "@chakra-ui/react": "^2.0.2",
+    "@emotion/react": "^11",
+    "@emotion/styled": "^11",
+    "@solana/wallet-adapter-base": "^0.9.5",
+    "@solana/wallet-adapter-react": "^0.15.4",
+    "@solana/wallet-adapter-react-ui": "^0.9.6",
+    "@solana/wallet-adapter-wallets": "^0.16.1",
+    "@solana/web3.js": "^1.42.0",
+    "framer-motion": "^6",
     "next": "12.1.6",
     "react": "18.1.0",
     "react-dom": "18.1.0"
